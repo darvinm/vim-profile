@@ -1,0 +1,483 @@
+# Diese viminfo-Datei wurde von Vim 7.3 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~MSle0~/start
+
+# Letztes Substitute Suchmuster:
+~MSle0&sprintf_s
+
+# Letzte ersetzte Zeichenkette:
+$snprintf
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:q
+:wq
+:w
+:pwd
+:tabedit Makefile
+:%s/sprintf_s/snprintf
+:b NULL
+:s/NULL/nullptr
+:s/NULL
+:s/NUL
+:help NERDTreeInvalidBookmark
+:e hausaufgabe_praxprog/
+:e praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+
+# Suchausdruck Geschichte (neueste bis älteste):
+?/start
+?/_start
+? sprintf_s
+?/sprint
+?/atol
+?/strtol
+?/sprintf
+?/nullptr
+?/NULL
+? NULL
+? NUL
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	CHAR	0
+	DijkstraAlgorithmus
+"1	LINE	0
+	env.Append(LIBS=['boost_serialization-mt'])
+"2	LINE	0
+	#define Min(a,b) ( ((a)<(b)) ? (a) : (b) )
+	#define Max(a,b) ( ((a)>(b)) ? (a) : (b) )
+"3	LINE	0
+	#define Min(a,b) ( ((a)<(b)) ? (a) : (b) )
+"4	LINE	0
+		    printArr(l, lenLeft);
+		    cout << "rechts: ";
+"5	LINE	0
+		    cout << "links: ";
+"6	LINE	0
+		    printArr(r, lenRight);
+"7	LINE	0
+	            //int lenLeft = Min(i, Max(0,len-(left+i-1)));
+"8	LINE	0
+	            //int lenRight = Min(i, Max(0,len-(left+lenLeft)));
+"9	LINE	0
+		    cout << "left: " << left << ", lenLeft: " << lenLeft << ", lenRight: " << lenRight << endl;
+""-	CHAR	0
+	-lboost_program_options
+
+# Datei-Marken:
+'0  1  0  ~/.vimrc
+'1  2  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/SConstruct
+'2  1  0  ~/NERD_tree_1
+'3  8  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+'4  191  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+'5  10  17  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+'6  11  1  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+'7  278  16  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+'8  4  13  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+'9  644  3  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+
+# Geschichte (neueste zuerst):
+-'  1  0  ~/.vimrc
+-'  2  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/SConstruct
+-'  2  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  1  0  ~/NERD_tree_1
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  59  2  ~/NERD_tree_1
+-'  8  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  191  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  146  3  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  10  17  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  11  1  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  278  16  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  4  13  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  644  3  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  632  8  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  3  17  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+-'  9  21  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/DijkstraKnoten.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/DijkstraKnoten.cpp
+-'  90  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/DijkstraKnoten.cpp
+-'  1  7  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/SConstruct
+-'  86  2  ~/NERD_tree_1
+-'  104  2  ~/NERD_tree_1
+-'  6  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  5  15  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  9919  0  ~/Routenplaner/pugixml/src/pugixml.cpp
+-'  207  0  ~/Routenplaner/pugixml/src/pugixml.cpp
+-'  1  0  ~/Routenplaner/pugixml/src/pugixml.cpp
+-'  1  0  ~/Routenplaner/pugixml/src/pugixml.
+-'  67  0  ~/Routenplaner/pugixml/src/pugiconfig.hpp
+-'  1  0  ~/Routenplaner/pugixml/src/pugiconfig.hpp
+-'  10  0  ~/hausaufgabe_praxprog/mergesort.cpp
+-'  138  0  ~/hausaufgabe_praxprog/mergesort.cpp
+-'  24  39  ~/hausaufgabe_praxprog/mergesort.cpp
+-'  14  0  ~/hausaufgabe_praxprog/mergesort.cpp
+-'  126  0  ~/hausaufgabe_praxprog/mergesort.cpp
+-'  106  0  ~/NERD_tree_1
+-'  36  23  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  9  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  63  11  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  55  22  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  53  50  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  61  4  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  43  31  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  45  25  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  17  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  138  14  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  140  4  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  11  10  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  4  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  14  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  13  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+-'  31  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung05/V05A01/V05A01/main.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung05/V05A01/V05A01/main.cpp
+-'  3  0  ~/test/main.cpp
+-'  1  0  ~/test/main.cpp
+-'  19  2  ~/test/GeographicCoordinate.h
+-'  1  0  ~/test/GeographicCoordinate.h
+-'  4  27  ~/test/GeographicCoordinate.h
+-'  11  0  ~/test/GeographicCoordinate.h
+-'  2  11  ~/test/Node.h
+-'  1  0  ~/test/Node.h
+-'  1  0  ~/test/Node.
+-'  32  9  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.cpp
+-'  22  1  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.cpp
+-'  5  1  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.cpp
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.h
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/main.cpp
+-'  21  27  ~/.vimrc
+-'  5  7  ~/.vimrc
+-'  6  0  ~/.vimrc
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Node.cpp
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  1  0  /etc/default/grub
+-'  11  55  /etc/default/grub
+-'  3  0  ~/NERD_tree_1
+-'  22  2  ~/NERD_tree_1
+-'  2  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/SConstruct
+-'  2  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  1  0  ~/NERD_tree_1
+-'  1  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  59  2  ~/NERD_tree_1
+-'  8  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+-'  191  0  ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/.vimrc
+	"	1	0
+	^	25	16
+	.	26	0
+	+	6	44
+	+	6	84
+	+	6	104
+	+	6	129
+	+	6	142
+	+	6	184
+	+	6	198
+	+	6	221
+	+	6	231
+	+	6	257
+	+	7	0
+	+	7	0
+	+	14	0
+	+	5	9
+	+	1	0
+	+	26	0
+	+	20	10
+	+	26	0
+	+	21	27
+	+	26	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/main.cpp
+	"	2	0
+	^	149	18
+	.	192	18
+	+	5	15
+	+	11	1
+	+	10	17
+	+	146	0
+	+	149	18
+	+	192	18
+
+> ~/NERD_tree_1
+	"	32	0
+	^	21	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.h
+	"	110	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/SConstruct
+	"	2	0
+	^	3	52
+	.	1	0
+	+	3	129
+	+	3	7
+	+	2	40
+	+	1	30
+	+	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/DijkstraKnoten.h
+	"	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/Makefile
+	"	2	132
+	^	2	133
+	.	2	132
+	+	1	94
+	+	2	5
+	+	7	67
+	+	8	30
+	+	11	25
+	+	7	21
+	+	4	6
+	+	20	15
+	+	4	8
+	+	20	7
+	+	2	132
+	a	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/pugixml.cpp
+	"	1052	5
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/JSON.cpp
+	"	278	16
+	^	278	17
+	.	278	16
+	+	3	17
+	+	632	8
+	+	644	8
+	+	278	14
+	+	4	13
+	+	278	16
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/DijkstraKnoten.cpp
+	"	9	21
+	^	9	22
+	.	9	22
+	+	1	0
+	+	9	22
+
+> ~/.vim/bundle/nerdtree/doc/NERD_tree.txt
+	"	208	52
+
+> ~/Dropbox/Studium/semester03/praxprog/Routenplaner/Routenplaner/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Routenplaner/pugixml/src/pugixml.cpp
+	"	9919	0
+
+> ~/Routenplaner/pugixml/src/pugixml.
+	"	1	0
+
+> ~/Routenplaner/pugixml/src/pugiconfig.hpp
+	"	67	0
+
+> ~/hausaufgabe_praxprog/mergesort.cpp
+	"	10	0
+	^	44	41
+	.	44	40
+	+	44	40
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung04/TemplateSort/TemplateSort/main.cpp
+	"	36	23
+	.	9	0
+	+	13	0
+	+	11	10
+	+	136	22
+	+	139	0
+	+	138	14
+	+	44	30
+	+	45	25
+	+	43	0
+	+	61	35
+	+	62	37
+	+	63	23
+	+	63	25
+	+	63	26
+	+	53	13
+	+	56	0
+	+	55	0
+	+	60	0
+	+	59	12
+	+	61	13
+	+	61	0
+	+	53	0
+	+	63	0
+	+	63	0
+	+	9	0
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung05/V05A01/V05A01/main.cpp
+	"	31	0
+
+> ~/test/main.cpp
+	"	3	0
+
+> ~/test/DijkstraAlgorithm.h
+	"	1	0
+
+> ~/test/GeographicCoordinate.h
+	"	19	2
+	^	19	3
+	.	19	2
+	+	2	1
+	+	4	27
+	+	19	2
+
+> ~/test/Node.h
+	"	2	11
+	.	2	10
+	+	2	10
+
+> ~/test/Node.
+	"	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/main.cpp
+	"	8	61
+	^	8	62
+	.	8	62
+	+	8	62
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Coordinate.h
+	"	4	25
+	^	4	26
+	.	4	25
+	+	5	1
+	+	4	0
+	+	2	0
+	+	3	65
+	+	4	25
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.h
+	"	18	18
+	^	18	19
+	.	18	18
+	+	20	0
+	+	6	8
+	+	7	8
+	+	18	0
+	+	19	0
+	+	18	18
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/NERD_tree_2
+	"	7	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/GeographicCoordinate.cpp
+	"	32	9
+	^	32	10
+	.	32	9
+	+	8	0
+	+	5	0
+	+	11	0
+	+	6	0
+	+	29	0
+	+	33	0
+	+	32	9
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Node.cpp
+	"	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Node.h
+	"	14	1
+	^	14	2
+	.	14	1
+	+	14	1
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Coordinate.cp
+	"	1	0
+
+> ~/Dropbox/Studium/semester03/praxprog/vorlesung10/Coordinate.cpp
+	"	3	6
+	^	3	7
+	.	3	6
+	+	6	0
+	+	5	37
+	+	3	6
+
+> /usr/share/vim/vim73/doc/help.txt
+	"	1	0
+
+> /usr/share/vim/vim73/doc/scroll.txt
+	"	259	46
+
+> /etc/default/grub
+	"	11	55
+	^	11	56
+	.	11	41
+	+	11	41
