@@ -1,7 +1,7 @@
 "Pathagon starten
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
-
+python from powerline.ext.vim import source_plugin; source_plugin()
 " Settings
 "Set terminal color mode to 256
 set t_Co=256
