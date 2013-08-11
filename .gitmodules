@@ -16,3 +16,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = git://github.com/plasticboy/vim-markdown
+[submodule "bundle/jquerysnippet"]
+	path = bundle/jquerysnippet
+	url = git://github.com/rogeliog/Vim-Snippets
