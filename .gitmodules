@@ -19,3 +19,6 @@
 [submodule "bundle/jquerysnippet"]
 	path = bundle/jquerysnippet
 	url = git://github.com/rogeliog/Vim-Snippets
+[submodule "bundle/delimate"]
+	path = bundle/delimate
+	url = https://github.com/Raimondi/delimitMate/
